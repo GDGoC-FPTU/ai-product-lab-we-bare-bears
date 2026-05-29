@@ -88,7 +88,7 @@ def evaluate_prompt(user_input: str) -> str:
         messages = ""
         messages = response.text
         return messages
-    # raise NotImplementedError("Implement evaluate_prompt")
+    
 
 
 # ===========================================================================
