@@ -6,4 +6,5 @@ Nhật ký chiêm nghiệm về việc tương tác với AI (ChatGPT, Gemini, C
     *   **Sửa đổi ra sao:** Bạn đã điều chỉnh prompt hoặc bổ sung ranh giới như thế nào để ép AI trả về kết quả đúng?
 
 - Trong quá trình sử dụng AI làm trợ lý, em đã sử dụng AI để tìm vấn đề, trợ lý sửa lỗi code python, đánh giá giải pháp.
+- AI sai khi không nắm rõ hoàn cảnh, hoặc prompt thiếu mô tả, chung chung
 - Để điều chỉnh prompt cho đúng, em đã thêm điều kiện, vấn đề mà bản thân cho là nguyên nhân vào prompt.
